@@ -1,3 +1,3 @@
-nombre = "codigo2";
+nombre = "codigo2modificado";
 
 console.log(nombre);
